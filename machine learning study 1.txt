@@ -1,0 +1,18 @@
+﻿When a computer program gains experience and performance, we say that the program is 'learning'. Think of a doll that makes a sound when you press a ship. The doll can make only a certain sound when the ship is pressed several times. This is an example of a traditional program. Traditional computer programs follow only certain rules, so they do not get better or worse when they are experienced. On the contrary, the more you write on Facebook, the more it will appear at the top of the page that fits your taste. This is because Facebook uses machine learning techniques.
+
+The general definition of machine learning is as follows.
+A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P, if its performance at task in T, as meausred by P, improves with experience E. - Tom Mitchell(1998) - 
+
+To better understand the concept of machine learning, let's compare machine learning with other concepts that can be confused with machine learning.
+
+1. Artificial Intelligence
+definition of artifical intelligence: Computers and computer software that are capable of intelligent behavior.
+Artificial intelligence should be viewed as a huge goal rather than a specific technology. Machine learning is a methodology for achieving that goal.
+
+2. Deep learning
+Deep learning is a field of machine learning. As deep learning, which was only one area of ​​machine learning, has grown so rapidly in recent years, sometimes the term 'machine learning' is sometimes used to refer to traditional techniques before deep learning. But technically, machine learning is a concept that includes deep learning.
+There are several reasons for deep learning to be spotlighted. First, the performance of the model is excellent. Deep learning shows high accuracy of existing techniques in various fields. Second, feature engineering is not required. Existing machine learning techniques have essentially required human intervention to come up with the variables to enter into the model. However, deep learning has a feature to learn not only the model but also the variables to be included in the model. This is called representation learning. Finally, deep learning is easy for transfer learning. In Deep learning, it is known that a model that solves one problem often solves other problems as well. Therefore, in deep learning, it is easy to deform or attach the model freely.
+
+3. Statistics
+Machine learning and statistics are similar in many ways. Statistics are like machine learning in that the accuracy of predictions increases with increasing data. The difference between machine learning and statistics is subtle.
+The difference mainly comes from the focus and concern of the research. Statistics are more mathematical and deductive. In addition, statistics typically deal with small data sets. But machine learning is better suited for big data. One way to understand the difference between statistics and machine learning is to understand how the two disciplines try to solve the problem. The problem with statistics is that the data is too small. Thus, statistics pursue mathematically increasingly sophisticated methodologies to draw meaning from even small amounts of data. Conversely, the problem of machine learning is that there is too much data. Too much data makes it difficult to store and analyze data. Although it can be solved by engineering methods such as distributed processing, it pursues a simple but effective algorithm in terms of algorithms.
